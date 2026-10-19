@@ -1,0 +1,16 @@
+{
+  "name": "restate",
+  "version": "0.1.0",
+  "description": "Restate the user's goals and problem in your own words. Explicit invocation only.",
+  "author": {
+    "name": "ekeric13"
+  },
+  "keywords": [
+    "prompting",
+    "understanding",
+    "goals"
+  ],
+  "skills": [
+    "./restate"
+  ]
+}

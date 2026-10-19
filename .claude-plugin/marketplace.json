@@ -1,0 +1,20 @@
+{
+  "name": "restate",
+  "owner": {
+    "name": "ekeric13"
+  },
+  "description": "A Claude Code plugin marketplace for the Restate skill.",
+  "plugins": [
+    {
+      "name": "restate",
+      "source": "./",
+      "description": "Restate the user's goals and problem in your own words. Explicit invocation only.",
+      "category": "productivity",
+      "keywords": [
+        "prompting",
+        "understanding",
+        "goals"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Restate"
+  short_description: "Restate my goals and the problem I am solving"
+  default_prompt: "Use $restate to restate in your own words what you think my goals are and what the problem I am trying to solve is."
+policy:
+  allow_implicit_invocation: false
